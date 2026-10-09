@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EliteWaffleSMP.aternos.me:12283",
-    "port": 29195,
+    "ip": "EliteWaffleSMP.aternos.me",
+    "port": 12283,
     "version": "1.21.1"
   },
   "position": {
